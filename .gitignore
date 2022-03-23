@@ -1,2 +1,15 @@
 venv/
 dataset/
+temp/
+.ipynb_checkpoints/
+ex1.ipynb
+ex2.ipynb
+ex3_1.ipynb
+ex3_2-jvsc-0e4dbe9a-e356-4ccd-ba96-93a8553a07d7.ipynb
+ex3_2-jvsc-6de401c0-fab2-4a8d-ba1b-b5e3fe9e8cea.ipynb
+ex3_2.ipynb
+ex4.ipynb
+ex6.ipynb
+test-jvsc-e6f5d2fb-74ef-4422-a493-39c0886f63bd.ipynb
+test.ipynb
+test.py
