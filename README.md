@@ -93,3 +93,23 @@ d) Compare the results with predefined function
 
     - IFFT -> https://adamsiembida.com/how-to-compute-the-ifft-using-only-the-forward-fft/
 ---
+
+## Week - 7
+### Problem Statement
+
+```
+Image restoration
+Consider the lena grayscale image as f(x,y) and apply gaussian filter using builtin function(let it be h). Call the resultant as g(x,y). Now find f(x,y) from g(x,y) using the formula g(x,y) = f(x,y) *h(x,y) (Hint: go through the solution of g = f*h given in the class apply the same for finding f)
+In the problem 1, find f(x,y) using g(x,y) = f(x,y)*h + n where n is the noise term. Add noise n using the inbuilt function of salt and pepper noise and find f. Display the results obtained.
+```
+
+### Resources
+---
+How to add Salt and Pepper noise:- https://theailearner.com/tag/salt-and-pepper/
+
+FFT in image restoration:- https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+
+Different types of filtering:- https://docs.opencv.org/3.4/d4/d13/tutorial_py_filtering.html
+
+
+---
