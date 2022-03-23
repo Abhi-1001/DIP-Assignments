@@ -68,3 +68,28 @@ Download the leaning tower of the PISA image and find the angle of inclination u
 
     - https://en.wikipedia.org/wiki/Histogram_matching
 ---
+
+## Week - 6
+### Problem Statement 
+```
+1) Swap phase of the dog image and magnitude of the lena image and display the output.
+2) Swap phase of the lena image and magnitude of the dog image ad display the output
+
+Note:
+a) Write a function to implement FFT for 1D signal.
+b) Implement DFT function for an image using the FFT for 1D signal
+c) Consider the images of lena and dog images attached. Find phase and magnitude of the dog and lena images using the DFT function (in b).
+d) Compare the results with predefined function
+```
+### Resources
+---
+- Fourier Transform
+
+    - DFT -> http://faculty.salina.k-state.edu/tim/mVision/freq-domain/DFT.html
+
+    - FFT of 2D sing FFT of 1D -> https://stackoverflow.com/questions/11333454/2d-fft-using-1d-fft
+
+    - Phase and Magnitude swap -> https://stackoverflow.com/questions/52312053/how-to-combine-the-phase-of-one-image-and-magnitude-of-different-image-into-1-im
+
+    - IFFT -> https://adamsiembida.com/how-to-compute-the-ifft-using-only-the-forward-fft/
+---
